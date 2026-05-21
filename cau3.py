@@ -7,4 +7,3 @@ if tong >= 10:
      print("Đậu")
 else:
         print("Rớt")
-  
